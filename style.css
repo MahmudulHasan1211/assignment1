@@ -81,10 +81,11 @@ nav ul button{
 
 #secondp{
     height: 1393px;
-    width: 1140px;
+    width: 1250px;
     background-color: #FAFAFB;/* #FAFAFB; */
-    margin-left: 138px;
-    padding: 80px 97px;
+    margin: 38px 38px;
+    padding-top: 80px;
+    padding-left: 100px;
 
 }
 
@@ -94,7 +95,7 @@ nav ul button{
     padding: 48px;
     background-color:#FCFCFD;
 }
-#sss{
+#secondsec{
     margin: 80px 97px;
     
 }
@@ -190,4 +191,7 @@ nav ul button{
     .h1l{
         color: #f2f6fe;
         padding-top: 45px;
+    }
+    .description{
+        text-align: left;
     }
