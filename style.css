@@ -127,20 +127,26 @@ nav ul button{
     margin-bottom: 40px;
 }
 #youtube{
-    height: 614px;
-    width: 1140px;
+    height: 555px;
+    width: 1080px;
     padding: 32px;
     display:flex;
-    justify-content:center;
-    align-items:center;
+    margin-left: 40px;
+    border-radius: 9px;
+    border: 0.1px solid #E3E3E3;
 }
 #min{
     width: 1140px;
     height: 1437px;
+    padding-left: 50px;
+    
 }
 #max{
+    margin-top: 130px;
     width: 1140px;
     height: 460px;
+    
+
 }
 .grid-container{
     display: grid;
@@ -150,7 +156,6 @@ nav ul button{
     background-color: white;
     }
     .grid-container > div{
-    border: 1px black solid;
     padding: 12px;
     border-radius: 10px;
     }
@@ -158,6 +163,7 @@ nav ul button{
     
     .c1{
         background-color: #fff6f4;
+        
     }
     .c2{
         background-color: #f2f6fe;
@@ -180,18 +186,56 @@ nav ul button{
         border-radius: 10px;
         margin-bottom: 24px;
         display: flex;
+        border-color:#E3E3E3;
     }
     #last{
-        padding: 50px;
+        margin-top: 0px;
+        margin-left: 45px;
         height: 313px;
         width: 1140px;
-        background-image: url(assets/handshake.jpg);
-        
+        background-image: url(assets/handshake1.jpg);
+        border-radius: 9px;
+        opacity: 0.9;
     }
     .h1l{
         color: #f2f6fe;
-        padding-top: 45px;
+        padding-left: 45px;
+
     }
     .description{
         text-align: left;
+    }
+    #mi{
+        text-align: center;
+    }
+    .threecard{
+        width: 180px;
+        height: 180px;
+        margin-top: 30px;
+    }
+    #fname{
+       
+        margin-left: 330px;
+        border:none
+    }
+    #col{
+        color: #E3E3E3;
+        font-size: larger;
+    }
+    #ftr{
+        height: 75px;
+        width: 100%;
+        background-color: #E3E3E3;
+        margin-top: 25px;
+        display: flex;
+        align-items: center;
+        justify-content:space-around;
+    }
+    #lasttext{
+        font-size: 20px;
+        padding-top: 15px;
+        padding-left: 20px;
+    }
+    .lbt{
+        font-size: 30px;
     }
