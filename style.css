@@ -13,11 +13,9 @@
   font-weight: 400;
   font-style: normal;
 }
-
 h1, p{
   text-align: center;
 }
-
 #h1b{
     font-weight: bolder;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -30,7 +28,6 @@ nav{
     justify-content: space-between;
     margin: 5px 150px;
 }
-
 nav ul button{
    padding: 13px 20px;
    border-radius: 8px;
@@ -38,7 +35,6 @@ nav ul button{
 }
 
 /*nav btn*/
-
 #btn1{
     background-color:#FFFFFF;
     
@@ -61,16 +57,13 @@ nav ul button{
  padding-top: 15px;
  text-align: center;
 }
-
-
 #gro{
         height: 240px;
         width: 240.28px;
         display: block;
         margin-left: auto;
         margin-right: auto;
-        margin-top: 10px;
-        
+        margin-top: 10px;      
 }
 #bg{
     background-image: url("./assets/Hero-bg.png");
@@ -78,7 +71,6 @@ nav ul button{
     width: 1440px;
     margin-bottom: 60px;
 }
-
 #secondp{
     height: 1393px;
     width: 1250px;
@@ -86,9 +78,7 @@ nav ul button{
     margin: 38px 38px;
     padding-top: 80px;
     padding-left: 100px;
-
 }
-
 .intodev{
     height: 336px;
     width: 946px;
@@ -99,7 +89,6 @@ nav ul button{
     margin: 80px 97px;
     
 }
-
 #ooo{
     height: 1233px;
     width: 946px;
@@ -107,11 +96,9 @@ nav ul button{
 #jjj{
     margin-bottom: 48px;
 }
-
 #memo{
     height: 1072px;
-    width: 946px;
-    
+    width: 946px;  
 }
 #keno{
     background-color: #FCFCFD;
@@ -138,15 +125,12 @@ nav ul button{
 #min{
     width: 1140px;
     height: 1437px;
-    padding-left: 50px;
-    
+    padding-left: 50px;   
 }
 #max{
     margin-top: 130px;
     width: 1140px;
     height: 460px;
-    
-
 }
 .grid-container{
     display: grid;
@@ -158,84 +142,81 @@ nav ul button{
     .grid-container > div{
     padding: 12px;
     border-radius: 10px;
-    }
-    
-    
-    .c1{
-        background-color: #fff6f4;
+    }   
+.c1{
+    background-color: #fff6f4;
         
     }
-    .c2{
-        background-color: #f2f6fe;
+.c2{
+    background-color: #f2f6fe;
     }
-    .c3{
-        background-color: #fffdf2;
+.c3{
+    background-color: #fffdf2;
     }
-    #target{
-        height: 866px;
-        width: 1140px;
-        
+#target{
+    height: 866px;
+    width: 1140px;       
     }
-    #h3P{
-        margin-bottom:48px;
+#h3P{
+    margin-bottom:48px;
     }
-    #plo{
-        width: 1140px;
-        height: 219px;
-        border: 0.5px black solid;
-        border-radius: 10px;
-        margin-bottom: 24px;
-        display: flex;
-        border-color:#E3E3E3;
+#plo{
+     width: 1140px;
+    height: 219px;
+    border: 0.5px black solid;
+    border-radius: 10px;
+    margin-bottom: 24px;
+    display: flex;
+    border-color:#E3E3E3;
     }
-    #last{
-        margin-top: 0px;
-        margin-left: 45px;
-        height: 313px;
-        width: 1140px;
-        background-image: url(assets/handshake1.jpg);
-        border-radius: 9px;
-        opacity: 0.9;
+#last{
+    margin-top: 0px;
+    margin-left: 45px;
+    height: 313px;
+    width: 1140px;
+    background-image: url(assets/handshake1.jpg);
+    border-radius: 9px;
+    opacity: 0.9;
     }
-    .h1l{
-        color: #f2f6fe;
-        padding-left: 45px;
+.h1l{
+    color: #f2f6fe;
+    padding-left: 45px;
 
     }
-    .description{
-        text-align: left;
+.description{
+    text-align: left;
     }
-    #mi{
-        text-align: center;
+#mi{
+    text-align: center;
     }
-    .threecard{
-        width: 180px;
-        height: 180px;
-        margin-top: 30px;
+.threecard{
+    width: 180px;
+    height: 180px;
+    margin-top: 30px;
     }
-    #fname{
+#fname{
        
-        margin-left: 330px;
-        border:none
+    margin-left: 330px;
+    border:none
     }
-    #col{
-        color: #E3E3E3;
-        font-size: larger;
+#col{
+    color: #E3E3E3;
+    font-size: larger;
     }
-    #ftr{
-        height: 75px;
-        width: 100%;
-        background-color: #E3E3E3;
-        margin-top: 25px;
-        display: flex;
-        align-items: center;
-        justify-content:space-around;
+#ftr{
+    height: 75px;
+    width: 100%;
+    background-color: #E3E3E3;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
     }
-    #lasttext{
-        font-size: 20px;
-        padding-top: 15px;
-        padding-left: 20px;
+#lasttext{
+    font-size: 20px;
+    padding-top: 15px;
+    padding-left: 20px;
     }
-    .lbt{
+.lbt{
         font-size: 30px;
     }
